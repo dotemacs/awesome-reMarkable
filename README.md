@@ -150,6 +150,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rmUploader](https://github.com/lobre/rmuploader) - Simple web app to upload epub or pdf files to the reMarkable tablet via drag and drop.
 - [rmWebUI](https://github.com/polletfa/rmWebUI) - Simple web interface to the reMarkable&reg; cloud.
 - (Unmaintained) [Slithin](https://github.com/furesoft/Slithin) - Free Management Application for Windows/Linux/MacOS.
+- [Simply Customize It](https://www.simplykyra.com/simply-customize-it/) - macOS & iOS app for template & sleep screen management.
 
 ## Other
 - [Book-safe](https://github.com/dvdsk/Book-safe) - Hide books/documents between a given time period.
